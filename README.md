@@ -1,13 +1,13 @@
-👋 Hi, I’m Nidhin Madankara Kottayi
+👋 Hi, I’m **Nidhin Madankara Kottayi**
 
-🎯 Full Stack Developer | AI Engineer | MBA Graduate
+🎯 **Full Stack Developer | AI Engineer | MBA Graduate**
 
 I’m passionate about building intelligent digital solutions that bridge business strategy and technology. With a strong foundation in software development, AI integration, and product design, I enjoy creating projects that are both impactful and scalable.
 
 ## Currently exploring:
 
-- AI & Cloud-based Applications using Azure AI, OpenAI, and Python
-- Full Stack Development with Spring boot, React and Angular
+- AI & Cloud-based Applications using [Azure AI](https://github.com/nidhinmk/AzureAI/tree/main), OpenAI, and Python
+- Full Stack Development with Spring boot, [Microservices](https://github.com/nidhinmk/Microservices/tree/main),  React and Angular
 - Automation & Data Visualization for real-world problem-solving
 
 ## Recent projects:
