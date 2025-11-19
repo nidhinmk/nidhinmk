@@ -1,6 +1,6 @@
-👋 Hi, I’m **Nidhin Madankara Kottayi**
+## Hi, I’m **Nidhin Madankara Kottayi**
 
-🎯 **Full Stack Developer | AI Engineer | MBA Graduate**
+### Full Stack Developer | AI Engineer | MBA Graduate
 
 I’m passionate about building intelligent digital solutions that bridge business strategy and technology. With a strong foundation in software development, AI integration, and product design, I enjoy creating projects that are both impactful and scalable.
 
