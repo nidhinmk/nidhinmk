@@ -7,7 +7,7 @@ I’m passionate about building intelligent digital solutions that bridge busine
 ## Currently exploring:
 
 - AI & Cloud-based Applications using [Azure AI](https://github.com/nidhinmk/AzureAI/tree/main), OpenAI, and Python
-- Full Stack Development with Spring boot, [Microservices](https://github.com/nidhinmk/Microservices/tree/main),  React and Angular
+- Full Stack Development with [Spring boot](https://github.com/nidhinmk/SpringBoot/tree/main), [Microservices](https://github.com/nidhinmk/Microservices/tree/main),  React and Angular
 - Automation & [Data Visualization](https://github.com/nidhinmk/data-analyst) for real-world problem-solving
 
 ## Recent projects:
